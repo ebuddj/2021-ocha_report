@@ -8,6 +8,8 @@ EMBARGO 2st December 2021, 0600 CET
 
 The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) is a United Nations body established in December 1991 by the General Assembly to strengthen the international response to complex emergencies and natural disasters.
 
+This is the Global Humanitarian Overview 2022, further updates will be published on our data platform: https://data.humdata.org.
+
 Here are the embed codes which are also available via the Live demo link.
 
 ### Section one: Global trends
