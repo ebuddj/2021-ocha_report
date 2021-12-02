@@ -15,8 +15,8 @@
   text-decoration: underline;
 }
 .app___2khK2 iframe {
+  border: 1px dashed #333;
   margin-bottom: 40px;
-  border: 1px dashed #000;
 }
 /* General styles */
 .clearfix___1yHqr {
