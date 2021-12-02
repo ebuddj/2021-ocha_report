@@ -115,7 +115,7 @@ Here are the embed codes which are also available via the Live demo link.
 * [OCHA](https://www.unocha.org/)
 
 **EBU links**
-* []()
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/7aa3849ac9f80427d7e0da6be86adac5/2021_10057686), OCHA will soon publish the Global Humanitarian Overview
 
 **Used by**
 * []()
